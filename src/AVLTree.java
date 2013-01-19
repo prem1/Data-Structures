@@ -168,7 +168,7 @@ public class AVLTree<T extends Comparable<T>> implements BSTInterface<T>{
 		return size;
 	}
 	
-	///////////////////////////////////////////////
+
 	@Override
 	public String toString(){
 		String result="the current AVL tree is: ";
